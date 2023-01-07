@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heading and Paragraph</title>
+</head>
+<body>
+    <p>Heading tag</p>
+    <p>This is a book</p>
+    <h1>Heading1</h1>
+    <h2>Heading2</h2>
+    <h3>Heading3</h3>
+    <h4>Heading4</h4>
+    <h5>Heading5</h5>
+    <h6>Heading6</h6>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae in commodi ratione aut saepe <strong>similique impedit placeat molestias distinctio</strong> , nisi sequi a ipsam corporis, <em>dolorum quia <b>quaerat</b> sapiente ex,</em> <br>excepturi nobis ad non?</p>
+     <p>First</p>
+     <hr>
+     <p>Second</p>
+     <p>Third</p>
+     <p>Fourth</p>
+</body>
+</html> 
