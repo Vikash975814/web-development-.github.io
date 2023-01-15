@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML semantic Elements</title>
+</head>
+<body>
+    <h1>Semantic Element</h1>     
+    <summary>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis iusto at quos cumque aliquam
+         corrupti praesentium est facere? Corporis dolorem nobis numquam quis.
+    </summary> 
+    <details>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. A, quia, quas cum
+         doloremque officia optio molestiae dicta facere quo, 
+         sapiente veniam tenetur veritatis.
+    </details>
+    <article>
+        Lorem ipsum dolor sit amet consectetur 
+        adipisicing elit. Pariatur tempora commodi ut!
+    </article>                                                                                                           
+</body>
+</html>
