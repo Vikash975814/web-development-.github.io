@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selector</title>
+    <style>
+        /* Element selector */
+        p{
+        color: blue;
+        }
+        /* ID selecto */
+.redelement{
+    color:red;
+    background-color: aqua;
+}
+/* class selector */
+#redelement
+{
+    background-color: hotpink;
+}
+/* group selector */
+footer,span{
+    background-color: red;
+}
+    </style>
+</head>
+<body>
+    <h3>CSS Selector</h3>
+    <p>Thas is a simple paragrph to demonstrate CSS Selector</p>
+        <p id= "Secondpara" class="redelement">Thas is a Another paragrph to demonstrate CSS Selector</p>
+    <div>
+    <p>Thas is a Again anothe paragrph to demonstrate CSS Selector</p>
+</div>
+<footer>This is a footer</footer>
+<span>this is a span</span>
+</body>
+</html>
